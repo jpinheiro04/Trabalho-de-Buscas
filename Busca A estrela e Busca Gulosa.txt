@@ -1,0 +1,29 @@
+Busca gulosa
+Busca a Estrela
+
+Diferença principal é a distancia 
+
+A Busca Gulosa 
+A Busca Gulosa é um algoritmo de busca que sempre tenta escolher a melhor solução.
+
+O algoritmo começa em um ponto inicial e explora os vizinhos mais promissores de acordo com uma função heurística.
+Ele escolhe o nó  que parece ser o mais próximo do objetivo, com base nessa heurística, e vai para esse nó.
+
+
+Busca A Estrela (A)*
+A Busca A Estrela (A)* é uma melhoria da Busca Gulosa. Ela também usa uma heurística, mas leva em consideração o custo atual do caminho.
+
+O algoritmo começa no ponto inicial e explora os nós vizinhos, assim como a busca gulosa.
+No entanto, ele não escolhe o nó com a menor heurística (como na busca gulosa). Ele escolhe o nó que tem o menor valor da soma de dois fatores:
+
+Busca Gulosa: Tenta chegar rápido ao objetivo, mas não garante a melhor solução.
+
+Busca A Estrela: Tenta otimizar o caminho completo, garantindo que a solução final seja a mais curta possível.
+
+Ambos os algoritmos são muito usados em problemas de navegação, inteligência artificial, jogos, etc., porque ajudam a encontrar soluções de maneira eficiente.
+
+
+
+
+
+

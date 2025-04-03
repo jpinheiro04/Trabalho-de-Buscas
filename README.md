@@ -1,6 +1,6 @@
 # Trabalho-de-Buscas 
 
-Tudo que fiz alguns não estão completos pois não consigui fazer ou faltei na aula 
+Tudo que fiz alguns não estão completos pois não consegui fazer ou faltei na aula.
 
 
 Menção ao git da Maria Luiza e Tarcísio Bruni https://github.com/malufreitas/a-estrela/blob/master/README.md 

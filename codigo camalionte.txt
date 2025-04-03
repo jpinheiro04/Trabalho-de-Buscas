@@ -1,0 +1,58 @@
+ wsl --install -d Ubuntu
+
+mkdir review
+cd review/
+
+sudo apt update && sudo apt upgrade -y
+
+apt install python3.12-venv
+
+python3 -m venv .venv
+
+ls -lah
+
+em review criar os arquivos.
+
+
+def int_to_roman(number: int) -> srt:
+
+symbols = {
+1000: "M", 900: "CM", 500: "D", 400: "CD",
+100: "C", 90: "XC", 50: "L", 40: "XL",
+10: "X", 9: "IX", 5: "V", 4: "IV", 1: "I"
+}
+
+roman = ""
+
+for symbol in sorted(symbols.keysa(), reverse=True):
+	while number >= symbolssymbol:
+		roman += symbols[symbol]
+		number -= symbol
+
+	return roman
+
+number = int(input("Digite um valor inteiro: "))
+if number <= 0:
+	print(" Por favor, insira um numero inteiro positivo.")
+else:
+	roman = int_to_roman(number)
+	print(f"Representacao em romano: {roman}") 
+
+------------------------------------------------------------------------------------------------------------------
+
+"""
+
+Revisão - aula 2
+Revisando classes com getter e setter.
+"""
+
+class People:
+
+"""
+
+Classe que defini o modelo de pessoa
+"""
+
+def__init__()
+
+
